@@ -1,6 +1,6 @@
 # Overview
 ## Part 1: Graph Coloring
-    Useage:
+    Usage:
         ./color_g -f <yourfile> 
 
 ## Other supports:
