@@ -1,3 +1,5 @@
+#Graphs
+
 Part 1: Graph Coloring
     Useage:
         ./color_g -f <yourfile> 
