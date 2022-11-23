@@ -3,7 +3,7 @@ all:
 test:
 	nvcc a.cu -I /usr/local/cuda/include -lm -o a
 convert:
-	g++ datasets/convert.cpp -o convert
+	g++ support/convert.cpp -o convert
 
 clean:
 	rm color_g
